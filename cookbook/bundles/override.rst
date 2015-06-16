@@ -29,7 +29,7 @@ importez le.
 Contrôleurs
 -----------
 
-En partant du principe que les bundles tiers n'utisent pas de contrôleurs qui
+En partant du principe que les bundles tiers n'utilisent pas de contrôleurs qui
 ne soient pas des services (ce qui est presque toujours le cas), vous pouvez
 facilement surcharger les contrôleurs grâce à l'héritage de bundle. Pour plus
 d'informations, lisez :doc:`/cookbook/bundles/inheritance`.
